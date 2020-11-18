@@ -1,0 +1,10 @@
+#app{
+    background: #688FF4;
+}
+#itemRow{
+    background: white;
+    border-radius: 50px;
+}
+#nameEnter, #title, #hiTitle{
+    color: white;
+}
